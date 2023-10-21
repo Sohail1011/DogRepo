@@ -1,0 +1,7 @@
+.card {
+    background-color: #fdf0d5;
+    color: black;
+    display: flex;
+    align-items: center;
+    padding: 1.2rem;
+}
